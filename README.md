@@ -1,6 +1,6 @@
-# Análise de Vendas para E-commerce (EDA)
+# Análise de Vendas para E-commerce 
 
-Análise exploratória e visualização de dados de vendas de e-commerce desenvolvida em Python. O projeto simula o ciclo completo de análise de dados: desde a geração de registros fictícios e pré-processamento até o levantamento de indicadores-chave de desempenho (KPIs) para apoio à tomada de decisão estratégica.
+Análise exploratória e visualização de dados de vendas de e-commerce desenvolvida em Python. O projeto simula o ciclo completo de análise de dados: desde a geração de registros fictícios e pré-processamento até o levantamento de indicadores-chave de desempenho para apoio à tomada de decisão estratégica.
 
 ---
 
